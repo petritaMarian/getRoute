@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "getRoute", "getRoute\getRoute.csproj", "{9ABE6D33-D5D8-4697-8638-090025078BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ABE6D33-D5D8-4697-8638-090025078BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABE6D33-D5D8-4697-8638-090025078BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABE6D33-D5D8-4697-8638-090025078BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABE6D33-D5D8-4697-8638-090025078BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E70B760-67BD-484C-97D3-F374EB032308}
+	EndGlobalSection
+EndGlobal
